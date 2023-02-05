@@ -1,0 +1,4 @@
+h, j, v, z = f115w_nircam_i2d, f150w_nircam_i2d, f356w_nircam_i2d, f444w_nircam_i2d
+
+cutoutposition_radec = [[14, 19, 29.13], [52, 52, 54.86]] #RA(hour, min, sec), DEC(deg, min, sec)형식
+squarecutpoint_radec =  [[14, 19, 32], [52, 52, 13]] #RA(hour, min, sec), DEC(deg, min, sec)형식
